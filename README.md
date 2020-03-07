@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of Cell Nuclei Segmentation Project
 
 You can use the [editor on GitHub](https://github.com/jskatyu13/Nuclei-Segmentation-DM-Proj/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
