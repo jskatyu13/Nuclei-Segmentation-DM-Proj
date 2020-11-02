@@ -1,4 +1,4 @@
-# Welcome to GitHub Pages of Cell Nuclei Segmentation Project
+# Cell Nuclei Segmentation Project
 
 ### models
  - it contains code for this project.
